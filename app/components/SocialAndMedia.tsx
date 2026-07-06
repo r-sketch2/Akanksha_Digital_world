@@ -4,9 +4,9 @@ import { motion, useInView } from 'framer-motion';
 
 const socials = [
   { name: 'Instagram', handle: '@akankshachaudhary_official', followers: '3.3M', icon: '📸', color: 'rgba(212,160,160,0.12)', border: 'rgba(212,160,160,0.2)', url: 'https://www.instagram.com/akankshachoudhary_official?igsh=MWdocmxqamZ6amxqaA==' },
-  { name: 'YouTube',   handle: '@akankshachaudhary_official', followers: '469K', icon: '▶',  color: 'rgba(255,60,60,0.08)',    border: 'rgba(255,80,80,0.2)',   url: 'https://youtube.com/@akankshachoudhary_official?si=iQnz0CcR_u28950q' },
-  { name: 'X',         handle: 'Akanksha10_C',               followers: '5.7K', icon: '𝕏',  color: 'rgba(245,240,232,0.04)', border: 'rgba(255,255,255,0.1)', url: 'https://x.com/Akanksha10_C' },
-  { name: 'Snapchat',  handle: 'Akanksha650',                followers: '775K', icon: '👻', color: 'rgba(255,252,0,0.05)',   border: 'rgba(255,252,0,0.15)',  url: 'https://www.snapchat.com/add/akanksha650?share_id=VNEDlv-JlZE&locale=en-IN' },
+  { name: 'YouTube',   handle: '@akankshachaudhary_official', followers: '481K', icon: '▶',  color: 'rgba(255,60,60,0.08)',    border: 'rgba(255,80,80,0.2)',   url: 'https://youtube.com/@akankshachoudhary_official?si=iQnz0CcR_u28950q' },
+  { name: 'X',         handle: 'Akanksha10_C',               followers: '5.8K', icon: '𝕏',  color: 'rgba(245,240,232,0.04)', border: 'rgba(255,255,255,0.1)', url: 'https://x.com/Akanksha10_C' },
+  { name: 'Snapchat',  handle: 'Akanksha650',                followers: '776K', icon: '👻', color: 'rgba(255,252,0,0.05)',   border: 'rgba(255,252,0,0.15)',  url: 'https://www.snapchat.com/add/akanksha650?share_id=VNEDlv-JlZE&locale=en-IN' },
   { name: 'Threads',   handle: '@akankshachaudhary_official', followers: '77.9K', icon: 'threads', color: 'rgba(245,240,232,0.04)', border: 'rgba(255,255,255,0.1)', url: 'https://www.threads.com/@akankshachaudhary_official' },
 ];
 

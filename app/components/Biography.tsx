@@ -6,9 +6,9 @@ import { useRouter } from 'next/navigation';
 const milestones = [
   { year: 'AUG 2023', title: 'First Brand Collaboration with catty.in', desc: 'Collaborated with the first brand of her journey and many more to go.', side: 'left' },
   { year: 'AUG 2023', title: 'Miss Rajasthan - Runner Up', desc: 'Became the face of multiple premium lifestyle and fashion brands across India.', side: 'right' },
-  { year: 'JULY 2025', title: 'Miss Universe India', desc: 'Selected to represent India at Miss Universe — a milestone that changed everything.', side: 'left' },
+  { year: 'JULY 2025', title: 'Miss Universe India', desc: 'Selected to represent her State at Miss Universe India — a milestone that changed everything.', side: 'left' },
   { year: 'JAN 2026', title: 'MTV Splitsvilla X6', desc: 'Became one of the most celebrated contestants, winning hearts across the nation.', side: 'right' },
-  { year: 'MAR 2026', title: 'Her First TED Talk', desc: 'A community of flower lovers united around elegance, culture, and authentic storytelling.', side: 'left' },
+  { year: 'MAR 2026', title: 'Her First TED Talk', desc: 'From the runway to the TEDx stage, she proved that every challenge can become a story worth sharing.', side: 'left' },
   { year: 'JUNE 2026', title: 'Her First Music Video', desc: 'Her very first music video "EYES" Released.', side: 'right' },
   { year: 'JUNE 2026', title: 'Lockup Season 2', desc: 'Currently making waves on Lockup Season 2, adding another iconic chapter to her story.', side: 'left' },
   { year: 'JULY 2026', title: 'Music & More', desc: 'Released Another music video "DOORIYAN" and continued expanding her creative universe.', side: 'right' },
