@@ -44,7 +44,7 @@ export default function Gallery() {
               animate={inView ? { opacity: 1, y: 0 } : {}}
               transition={{ delay: i * 0.08, duration: 0.6 }}
               style={{ borderRadius: 8, overflow: 'hidden', cursor: 'none', aspectRatio: '3/4', position: 'relative' }}
-              onClick={() => router.push('/gallery/events')}
+              onClick={() => router.push('/gallery')}
               data-cursor
             >
               <img src={item.url} alt={item.cat} loading="lazy"
